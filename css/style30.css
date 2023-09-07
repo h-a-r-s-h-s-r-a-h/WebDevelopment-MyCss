@@ -1,0 +1,33 @@
+.first-box{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: 1fr 1fr;
+}
+.violet{
+    height: 200px;
+    width: 200px;
+    background-color: violet;
+}
+.pink{
+    height: 200px;
+    width: 200px;
+    background-color: pink;
+}
+.blue{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+.red{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+.second-box{
+    display: grid;
+    grid-template-columns: 400px 800px;
+    grid-template-rows: 100px 200px;
+}
+.blank-space{
+    height: 300px;
+}

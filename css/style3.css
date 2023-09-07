@@ -1,0 +1,14 @@
+body{
+    background-color: blue;
+}
+h1{
+    color: blueviolet;
+    background-color: black;
+}
+hr{
+    width:30%;
+}
+img{
+    height:30%;
+    width:20%;
+}

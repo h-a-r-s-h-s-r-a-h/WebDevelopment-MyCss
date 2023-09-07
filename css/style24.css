@@ -1,0 +1,13 @@
+.blue{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+.red{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+.container{
+    display: inline-flex;
+}

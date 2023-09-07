@@ -1,0 +1,10 @@
+.warning{
+    border:10px ridge blue;
+}
+.warning img{
+    height:30%;
+    width:20%;
+}
+.warning p{
+    font-size: 300px;
+}

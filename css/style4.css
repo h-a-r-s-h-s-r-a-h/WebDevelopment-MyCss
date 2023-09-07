@@ -1,0 +1,18 @@
+.whole{
+    background-color: aqua;
+}
+.harsh{
+    background-color:blue;
+}
+.ram{
+    background-color: orange;
+    font-size: larger;
+}
+.bike{
+    height:30%;
+    width:20%;
+}
+img:hover{
+    height:40%;
+    width:30%;
+}

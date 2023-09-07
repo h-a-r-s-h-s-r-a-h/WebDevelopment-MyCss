@@ -1,0 +1,24 @@
+.first-box img{
+    height: 300px;
+    width: 500px;
+    float: left;
+    
+}
+p{
+    display: inline-block;
+}
+.first-box{
+    float: left;
+    background-color: aqua;
+    width: 400px;
+}
+
+.second-box img{
+    float: left;
+}
+
+.second-box{
+    background-color: bisque;
+    width: 400px;
+    display: inline-block;
+}

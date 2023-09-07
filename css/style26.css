@@ -1,0 +1,31 @@
+.container{
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.red{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    order: 1;
+
+}
+.blue{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    order: 4;
+}
+.violet{
+    height: 200px;
+    width: 200px;
+    background-color: violet;
+    order: 2;
+}
+.green{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    order: 0;
+}
